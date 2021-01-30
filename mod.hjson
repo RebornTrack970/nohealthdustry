@@ -1,0 +1,7 @@
+name: "nohealth"
+displayName: "No-Health-Dustry"
+author: "[yellow]RT[cyan]Omega"
+description: "[sky]Nothing has health. lol"
+version: "0.3"
+minGameVersion: 120
+hidden: true
